@@ -3,7 +3,7 @@
   "name": "accounting-transfers-api",
   "display_name": "Accounting Transfers API",
   "description": "HTTP API adapter for Accounting Transfers.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\TransfersApi\\TransfersApiServiceProvider",
   "requires": {
